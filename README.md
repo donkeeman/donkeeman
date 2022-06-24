@@ -1,6 +1,6 @@
 ### <div align="center">Hello, World!</div>
 ### <div align="center">I'm Hyewon Lee.</div>  
-  
+### <div align="center">[![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=donkeeman&layout=compact&exclude_repo=FrontendSchool_2,donkeeman.github.io)](https://github.com/anuraghazra/github-readme-stats)</div>  
 
 <br/>  
 
@@ -61,10 +61,10 @@
 ## Connect with me  
 <div align="center">
 <a href="https://github.com/donkeeman" target="_blank">
-<img src=https://img.shields.io/badge/github-%2324292e.svg?&style=for-the-badge&logo=github&logoColor=white alt=github style="margin-bottom: 5px;" />
+<img src=https://img.shields.io/badge/github-%23006400.svg?&style=for-the-badge&logo=github&logoColor=white alt=github style="margin-bottom: 5px;" />
 </a>
-<a href="https://linkedin.com/in/donkeeman" target="_blank">
-<img src=https://img.shields.io/badge/linkedin-%231E77B5.svg?&style=for-the-badge&logo=linkedin&logoColor=white alt=linkedin style="margin-bottom: 5px;" />
+<a href="https://www.linkedin.com/in/hyewon-lee-0ab184243" target="_blank">
+<img src=https://img.shields.io/badge/linkedin-%23006400.svg?&style=for-the-badge&logo=linkedin&logoColor=white alt=linkedin style="margin-bottom: 5px;" />
 </a>  
 </div>  
   
@@ -73,7 +73,7 @@
 
 
 ## Github Stats  
-<div align="center"><img src="https://github-readme-stats.vercel.app/api?username=donkeeman&show_icons=true&count_private=true&hide_border=true" align="center" /></div>  
+<div align="center"><img src="https://github-readme-stats.vercel.app/api?username=donkeeman&title_color=006400&icon_color=006400&show_icons=true&text_color=efefef&bg_color=0a0c10&count_private=true&hide_border=true" align="center" /></div>  
 
 <br/>  
 
