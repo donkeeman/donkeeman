@@ -1,7 +1,5 @@
-### <div align="center">
-  Hello, World!
-  I'm Hyewon Lee.
-</div>  
+### <div align="center">Hello, World!</div>
+### <div align="center">I'm Hyewon Lee.</div>  
   
 
 <br/>  
