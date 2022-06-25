@@ -1,9 +1,19 @@
 ### <div align="center">Hello, World!</div>
-### <div align="center">I'm Hyewon Lee.</div>  
-### <div align="center">[![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=donkeeman&layout=compact&exclude_repo=FrontendSchool_2,donkeeman.github.io)](https://github.com/anuraghazra/github-readme-stats)</div>  
+### <div align="center">I'm Hyewon Lee, the FE developer.</div>  
 
-<br/>  
+<br/> 
 
+<div align="center">
+<a href="https://github.com/donkeeman" target="_blank">
+<img src=https://img.shields.io/badge/github-%23006400.svg?&style=for-the-badge&logo=github&logoColor=white alt=github style="margin-bottom: 5px;" />
+</a>
+<a href="https://www.linkedin.com/in/hyewon-lee-0ab184243" target="_blank">
+<img src=https://img.shields.io/badge/linkedin-%23006400.svg?&style=for-the-badge&logo=linkedin&logoColor=white alt=linkedin style="margin-bottom: 5px;" />
+</a>
+<a href="mailto:doonkeeemaan@gmail.com" target="_blank">
+<img src=https://img.shields.io/badge/gmail-%23006400.svg?&style=for-the-badge&logo=gmail&logoColor=white alt=email style="margin-bottom: 5px;" />
+</a>  
+</div>  
 
 ## My Skill Set  
 <table><tr><td valign="top" width="33%">
@@ -57,25 +67,10 @@
 
 <br/>  
 
-
-## Connect with me  
+## Github Stats & Top Langs
 <div align="center">
-<a href="https://github.com/donkeeman" target="_blank">
-<img src=https://img.shields.io/badge/github-%23006400.svg?&style=for-the-badge&logo=github&logoColor=white alt=github style="margin-bottom: 5px;" />
-</a>
-<a href="https://www.linkedin.com/in/hyewon-lee-0ab184243" target="_blank">
-<img src=https://img.shields.io/badge/linkedin-%23006400.svg?&style=for-the-badge&logo=linkedin&logoColor=white alt=linkedin style="margin-bottom: 5px;" />
-</a>  
-</div>  
-  
+<img src="https://github-readme-stats.vercel.app/api?username=donkeeman&title_color=00a000&icon_color=00a000&show_icons=true&text_color=efefef&bg_color=0a0c10&count_private=true&hide_border=true" /><img src="https://github-readme-stats.vercel.app/api/top-langs/?username=donkeeman&layout=compact&exclude_repo=FrontendSchool_2,donkeeman.github.io&title_color=00a000&bg_color=0a0c10&text_color=efefef&hide_border=true"  align="top"/>
+</div>
 
 <br/>  
 
-
-## Github Stats  
-<div align="center"><img src="https://github-readme-stats.vercel.app/api?username=donkeeman&title_color=006400&icon_color=006400&show_icons=true&text_color=efefef&bg_color=0a0c10&count_private=true&hide_border=true" align="center" /></div>  
-
-<br/>  
-
-----
-<div align="center">Generated using <a href="https://profilinator.rishav.dev/" target="_blank">Github Profilinator</a></div>
