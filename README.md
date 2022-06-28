@@ -1,5 +1,5 @@
 ### <div align="center">Hello, World!</div>
-### <div align="center">I'm Hyewon Lee, the FE developer.</div>  
+### <div align="center">I'm HW Lee, the FE developer.</div>  
 
 <br/> 
 
