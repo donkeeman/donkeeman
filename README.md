@@ -1,5 +1,5 @@
 ### <div align="center">Hello, World!</div>
-### <div align="center">I'm HW Lee, the Front-end web developer.</div>  
+### <div align="center">I'm HW Lee, the web front-end developer.</div>  
 
 <br/> 
 
