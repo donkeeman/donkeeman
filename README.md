@@ -7,13 +7,19 @@
 <a href="https://github.com/donkeeman" target="_blank">
 <img src=https://img.shields.io/badge/github-%23006400.svg?&style=for-the-badge&logo=github&logoColor=white alt=github style="margin-bottom: 5px;" />
 </a>
-<!-- <a href="https://www.linkedin.com/in/hyewon-lee-0ab184243" target="_blank">
+<a href="https://www.linkedin.com/in/donkeeman" target="_blank">
 <img src=https://img.shields.io/badge/linkedin-%23006400.svg?&style=for-the-badge&logo=linkedin&logoColor=white alt=linkedin style="margin-bottom: 5px;" />
-</a> -->
+</a>
 <a href="mailto:doonkeeemaan@gmail.com" target="_blank">
 <img src=https://img.shields.io/badge/gmail-%23006400.svg?&style=for-the-badge&logo=gmail&logoColor=white alt=email style="margin-bottom: 5px;" />
-</a>  
-</div>  
+</a>
+</div> 
+<!-- <br/> 
+<div align="center">
+<a href="https://solved.ac/donkeeman" target="_blank">
+<img src="http://mazassumnida.wtf/api/mini/generate_badge?boj=donkeeman" />
+</a> -->
+</div>
 
 ## My Skill Set  
 
@@ -65,4 +71,3 @@
 </div>
 
 <br/>  
-
