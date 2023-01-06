@@ -69,7 +69,7 @@
 
 ## Github Stats & Top Langs
 <div align="center">
-<img src="https://github-readme-stats.vercel.app/api?username=donkeeman&title_color=00a000&icon_color=00a000&show_icons=true&text_color=efefef&bg_color=0a0c10&count_private=true&hide_border=true" /><img src="https://github-readme-stats.vercel.app/api/top-langs/?username=donkeeman&layout=compact&exclude_repo=FrontendSchool_2,donkeeman.github.io&title_color=00a000&bg_color=0a0c10&text_color=efefef&hide_border=true"  align="top"/>
+<img src="https://github-readme-stats.vercel.app/api?username=donkeeman&title_color=00a000&icon_color=00a000&show_icons=true&text_color=efefef&bg_color=0a0c10&count_private=true&hide_border=true" /><img src="https://github-readme-stats.vercel.app/api/top-langs/?username=donkeeman&layout=compact&exclude_repo=FrontendSchool_2,donkeeman.github.io&langs_count=6&title_color=00a000&bg_color=0a0c10&text_color=efefef&hide_border=true"  align="top"/>
 </div>
 
 <br/>  
