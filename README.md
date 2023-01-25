@@ -7,6 +7,9 @@
 <a href="https://github.com/donkeeman" target="_blank">
 <img src=https://img.shields.io/badge/github-%23006400.svg?&style=for-the-badge&logo=github&logoColor=white alt=github style="margin-bottom: 5px;" />
 </a>
+<a href="https://velog.io/@donkeeman" target="_blank">
+<img src=https://img.shields.io/badge/velog-%23006400.svg?&style=for-the-badge&logo=velog&logoColor=white alt=velog style="margin-bottom: 5px;" />
+<a/>
 <a href="https://www.linkedin.com/in/donkeeman" target="_blank">
 <img src=https://img.shields.io/badge/linkedin-%23006400.svg?&style=for-the-badge&logo=linkedin&logoColor=white alt=linkedin style="margin-bottom: 5px;" />
 </a>
