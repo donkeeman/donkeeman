@@ -28,6 +28,8 @@
 
 <br/>  
  -->
+<!--  
+ [![Hits](https://hits.seeyoufarm.com/api/count/incr/badge.svg?url=https%3A%2F%2Fgithub.com%2Fdonkeeman%2Fhit-counter&count_bg=%2379C83D&title_bg=%23555555&icon=&icon_color=%23E7E7E7&title=hits&edge_flat=false)](https://hits.seeyoufarm.com) -->
 ## Github Stats & Top Langs
 <div align="center">
 <img src="https://github-readme-stats.vercel.app/api?username=donkeeman&title_color=00a000&icon_color=00a000&show_icons=true&text_color=efefef&bg_color=0a0c10&count_private=true&hide_border=true" /><img src="https://github-readme-stats.vercel.app/api/top-langs/?username=donkeeman&layout=compact&exclude_repo=FrontendSchool_2,donkeeman.github.io&langs_count=6&title_color=00a000&bg_color=0a0c10&text_color=efefef&hide_border=true"  align="top"/>
