@@ -10,30 +10,18 @@
 <img src="https://img.shields.io/badge/React_Query-FF4154?style=for-the-badge&logo=react-query&logoColor=white" />
 <img src="https://img.shields.io/badge/Recoil-387CE0?style=for-the-badge&logo=react&logoColor=white" />
 <img src="https://img.shields.io/badge/Vue.js-4FC08D?style=for-the-badge&logo=vue.js&logoColor=white" />
+<img src="https://img.shields.io/badge/Nuxt.js-00DC82?style=for-the-badge&logo=nuxt.js&logoColor=white" />
 <img src="https://img.shields.io/badge/Firebase-FFCA28?style=for-the-badge&logo=firebase&logoColor=black" />
 <img src="https://img.shields.io/badge/Git-F05032?style=for-the-badge&logo=git&logoColor=white" />
 <img src="https://img.shields.io/badge/GitHub-181717?style=for-the-badge&logo=github&logoColor=white" />
 </div>
+<br/>   -->
 
-## Learning
-<div align="left">
-<img src="https://img.shields.io/badge/C-A8B9CC?style=for-the-badge&logo=c&logoColor=black" />
-<img src="https://img.shields.io/badge/C++-00599C?style=for-the-badge&logo=c%2B%2B&logoColor=white" />
-<img src="https://img.shields.io/badge/C%23-239120?style=for-the-badge&logo=csharp&logoColor=white" />
-<img src="https://img.shields.io/badge/Python-3776AB?style=for-the-badge&logo=python&logoColor=white" />
-<img src="https://img.shields.io/badge/Next.js-000000?style=for-the-badge&logo=next.js&logoColor=white" />
-<img src="https://img.shields.io/badge/Nuxt.js-00DC82?style=for-the-badge&logo=nuxt.js&logoColor=white" />
-<img src="https://img.shields.io/badge/Svelte-FF3E00?style=for-the-badge&logo=svelte&logoColor=white" />
-</div>
 
-<br/>  
- -->
-<!--  
- [![Hits](https://hits.seeyoufarm.com/api/count/incr/badge.svg?url=https%3A%2F%2Fgithub.com%2Fdonkeeman%2Fhit-counter&count_bg=%2379C83D&title_bg=%23555555&icon=&icon_color=%23E7E7E7&title=hits&edge_flat=false)](https://hits.seeyoufarm.com) -->
-## Github Stats & Top Langs
 <div align="center">
 <img src="https://github-readme-stats.vercel.app/api?username=donkeeman&title_color=00a000&icon_color=00a000&show_icons=true&text_color=efefef&bg_color=0a0c10&count_private=true&hide_border=true" /><img src="https://github-readme-stats.vercel.app/api/top-langs/?username=donkeeman&layout=compact&exclude_repo=FrontendSchool_2,donkeeman.github.io&langs_count=6&title_color=00a000&bg_color=0a0c10&text_color=efefef&hide_border=true"  align="top"/>
-<!-- <a href="https://solved.ac/donkeeman" target="_blank">
-<img src="http://mazassumnida.wtf/api/mini/generate_badge?boj=donkeeman" />
-</a> -->
+<a href="https://solved.ac/donkeeman" target="_blank">
+<img src="http://mazassumnida.wtf/api/v2/generate_badge?boj=donkeeman" />
+</a>
 </div>
+
